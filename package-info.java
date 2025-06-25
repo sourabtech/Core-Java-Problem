@@ -1,1 +1,1 @@
-package Lab8;
+package Inheritance;
